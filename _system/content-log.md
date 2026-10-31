@@ -10,3 +10,7 @@
 | 2026-10-28 10.00 | Layanan | CCTV — pantau usaha dari HP (WiFi, IP Cam, analog) | 2026-10/2026-10-28-cctv.png |
 | 2026-10-29 18.00 | Edukasi | 4 hal wajib ada di website bisnis | 2026-10/2026-10-29-tips-website.png |
 | 2026-10-30 10.00 | Brand | Bingung mulai dari mana? 3 langkah konsultasi | 2026-10/2026-10-30-cara-kerja.png |
+| 2026-11-02 10.00 | Produk | E-Shop — toko online sendiri, multi-store | 2026-11/2026-11-02-eshop.png |
+| 2026-11-04 10.00 | Layanan | Jaringan internet — WiFi usaha lemot & sering putus | 2026-11/2026-11-04-jaringan-internet.png |
+| 2026-11-05 18.00 | Edukasi | 4 cara menjaga data bisnis aman | 2026-11/2026-11-05-tips-keamanan-data.png |
+| 2026-11-06 10.00 | Brand | Urus sendiri vs #TerimaBeres (satu mitra, satu kontak) | 2026-11/2026-11-06-urus-sendiri-vs-terima-beres.png |
