@@ -14,3 +14,7 @@
 | 2026-11-04 10.00 | Layanan | Jaringan internet — WiFi usaha lemot & sering putus | 2026-11/2026-11-04-jaringan-internet.png |
 | 2026-11-05 18.00 | Edukasi | 4 cara menjaga data bisnis aman | 2026-11/2026-11-05-tips-keamanan-data.png |
 | 2026-11-06 10.00 | Brand | Urus sendiri vs #TerimaBeres (satu mitra, satu kontak) | 2026-11/2026-11-06-urus-sendiri-vs-terima-beres.png |
+| 2026-11-09 10.00 | Produk | Sistem Keuangan — uang masuk & keluar masih dicatat di buku? | 2026-11/2026-11-09-sistem-keuangan.png |
+| 2026-11-11 10.00 | Layanan | PC & Laptop — laptop kantor lemot? rakit & upgrade | 2026-11/2026-11-11-pc-laptop.png |
+| 2026-11-12 18.00 | Edukasi | 4 tips foto produk pakai HP | 2026-11/2026-11-12-tips-foto-produk.png |
+| 2026-11-13 10.00 | Brand | FAQ — Tanya jawab Enji Digital | 2026-11/2026-11-13-faq.png |
