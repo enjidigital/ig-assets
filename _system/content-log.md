@@ -18,3 +18,7 @@
 | 2026-11-11 10.00 | Layanan | PC & Laptop — laptop kantor lemot? rakit & upgrade | 2026-11/2026-11-11-pc-laptop.png |
 | 2026-11-12 18.00 | Edukasi | 4 tips foto produk pakai HP | 2026-11/2026-11-12-tips-foto-produk.png |
 | 2026-11-13 10.00 | Brand | FAQ — Tanya jawab Enji Digital | 2026-11/2026-11-13-faq.png |
+| 2026-11-16 10.00 | Produk | E-Tour — paket tour masih ditawarkan lewat chat? | 2026-11/2026-11-16-etour.png |
+| 2026-11-18 10.00 | Layanan | Website & SEO — bisnis belum muncul di Google? | 2026-11/2026-11-18-website-seo.png |
+| 2026-11-19 18.00 | Edukasi | 4 tips balas chat pelanggan lebih cepat (WhatsApp Business) | 2026-11/2026-11-19-tips-balas-chat.png |
+| 2026-11-20 10.00 | Brand | Mitos vs fakta sistem digital untuk usaha | 2026-11/2026-11-20-mitos-vs-fakta.png |
