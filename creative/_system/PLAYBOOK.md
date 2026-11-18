@@ -27,6 +27,10 @@ Bahasa caption: **English**. Komunikasi ke pemilik: Bahasa Indonesia.
   - (Sudah diuji 18 Nov 2026: container dengan collaborators=["toetsvisual"] diterima API.)
 - Caption collab diawali atau ditutup dengan kredit: "In collaboration with @toetsvisual". Tetap bahasa Inggris dan tetap memakai CTA serta hashtag Enji. Tambahkan juga #toetsvisual.
 - Story dari folder `story toets visual`: API Instagram tidak mendukung Collab atau mention di story. Terbitkan story seperti biasa, lalu catat di log "collab story, mention manual". Di notifikasi, ingatkan pemilik bahwa ia bisa menambahkan stiker mention @toetsvisual secara manual kalau mau.
+- **Kalau collab tidak bisa atau ditolak, konten tetap terbit di akun kita tanpa collab:**
+  - Kalau API menolak `collaborators` saat membuat container (misalnya akun @toetsvisual tidak menerima undangan collab), ulangi sekali dengan konten dan caption yang sama **tanpa** `collaborators`, lalu terbitkan. Kredit "In collaboration with @toetsvisual" di caption tetap dipakai. Catat di log sebagai "collab ditolak API, terbit tanpa collab".
+  - Kalau @toetsvisual menolak undangan di aplikasi, postingan otomatis tetap ada di @enjidigital.creative sebagai postingan biasa. Tidak perlu posting ulang.
+  - Setiap run, cek status undangan collab yang masih "pending" di log: GET `/{media-id}/collaborators` (lewat `_zap_raw_request` read). Perbarui log menjadi Accepted atau Declined. Kalau Declined, cukup sebutkan di notifikasi berikutnya sebagai info, tanpa tindakan lain.
 - @toetsvisual harus menerima undangan collab di aplikasi Instagram mereka supaya postingan juga muncul di profil mereka. Sebutkan ini di notifikasi setiap kali ada collab post.
 - Di content-log, tulis jenisnya sebagai "Post (collab toetsvisual)", "Reels (collab toetsvisual)", dan seterusnya.
 
