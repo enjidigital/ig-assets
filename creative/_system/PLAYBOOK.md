@@ -40,7 +40,8 @@ Bahasa caption: **English**. Komunikasi ke pemilik: Bahasa Indonesia.
 ## Antrean (cek ini dulu)
 - **Konten baru dari Drive lebih diutamakan daripada antrean upacara.** Setiap run, cek dulu folder Portfolio (Feed/Reels/Story) dan Portfolio/toetsvisual (feed/reels/story). Begitu ada satu saja file baru yang belum tercatat di content-log, **hapus seluruh sisa antrean** di `queue.md`: ganti isinya dengan catatan "Antrean upacara dibatalkan <tanggal> karena konten baru tersedia di Drive", lalu commit. Sejak saat itu, pilih media dari folder Drive tersebut. Sebutkan pembatalan ini di notifikasi hari itu.
 - `creative/_system/queue.md` hanya dipakai selama folder Drive di atas belum berisi konten baru. Kalau ada entri untuk hari ini, terbitkan persis sesuai antrean, tanpa memilih ulang.
-- Kalau antrean hari ini kosong, pilih media dari folder Portfolio (lihat di bawah). Kalau Portfolio kosong, boleh memilih dari folder Drive induk `115vRK4ixb0Dbp6TrY_6fVX_v4KNtqPOC` (sesi "Ngplugin 17 nov 2026") asalkan belum tercatat di content-log.
+- Kalau antrean hari ini kosong, pilih media dari folder Portfolio dan Portfolio/toetsvisual. **Jangan pernah memakai folder lain, termasuk sisa foto sesi upacara/Ngplugin, sebagai cadangan.**
+- **Kalau tidak ada media baru: JANGAN posting apa pun hari itu**, lalu kirim pengingat ke pemilik untuk mengisi folder Drive. Kirim pengingat pada hari pertama kosong, setelah itu pada setiap jadwal post/Reels (Senin, Rabu, Jumat, Minggu) yang terlewat. Catat di content-log sebagai "kosong, tidak posting".
 - Kalau sisa antrean dan stok media cukup untuk kurang dari 5 hari, kirim pengingat ke pemilik.
 
 ## Memilih media
