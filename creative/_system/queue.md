@@ -21,7 +21,7 @@ Run harian: ambil entri bertanggal hari ini (WITA) yang belum tercatat di conten
 
 ## Post & Reels
 
-### 2026-11-20 (Jumat) · Post carousel 3:2
+### SUDAH TERBIT 2026-11-18 23.42 WITA (dimajukan atas permintaan pemilik) · Post carousel 3:2 — https://www.instagram.com/p/Df42kFtFyoU/
 Files (urut): 2026-11-20-post-procession-1.jpg … -5.jpg
 Drive id: 1NE1C-Fa8kuBmmXxugmrQpuKMwoAvA-iw, 1AHlfVTVgH2B8d9Vx_4bkSIWfm5hLR4VY, 183s6Lr3dSxaTaUdJMXQm5UvW9_jb8nKt, 1JBaS0haW9HJix_LQewQQeKRcemwz350U, 1lJqxaNOzmYuT7THr3zsShyLMAEg0_6Nl
 Caption:
@@ -62,7 +62,7 @@ Behind every offering there is a smile, a shared joke, a quiet prayer. Matching 
 #EnjiDigital #EnjiDigitalCreative #BaliPhotographer #BaliPortrait #BalineseCulture #Kebaya #BalineseCeremony #CandidPhotography #PeopleOfBali #CulturalPhotography
 ```
 
-### 2026-11-25 (Rabu) · Post tunggal 4:5
+### 2026-11-20 (Jumat) · Post tunggal 4:5
 File: 2026-11-25-post-umbrellas.jpg (Drive id 1DLKKCtODqNqmS6YfdvpmS2QKfNoEuTZY)
 Caption:
 ```
@@ -75,7 +75,7 @@ A single frame from the village procession — one of many quiet, powerful momen
 #EnjiDigital #EnjiDigitalCreative #BaliPhotographer #BalineseCulture #BalineseCeremony #BaliProcession #DocumentaryPhotography #BaliEventPhotographer #IslandOfTheGods
 ```
 
-### 2026-11-27 (Jumat) · Post tunggal 4:5
+### 2026-11-25 (Rabu) · Post tunggal 4:5
 File: 2026-11-27-post-mother-child.jpg (Drive id 1nEHDjXU8MHVJk4ttfn93bNj0KoChJ4LL)
 Caption:
 ```
@@ -87,3 +87,6 @@ In Bali, even the youngest ones are part of the celebration. We're grateful to c
 
 #EnjiDigital #EnjiDigitalCreative #BaliPhotographer #BaliFamilyPhotographer #BalineseCulture #MotherAndChild #BalineseCeremony #PeopleOfBali #CandidPhotography
 ```
+
+### 2026-11-27 (Jumat)
+Belum ada antrean: pilih dari folder Portfolio/Feed (atau sisa foto sesi Ngplugin) sesuai PLAYBOOK.
