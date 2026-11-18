@@ -38,7 +38,8 @@ Bahasa caption: **English**. Komunikasi ke pemilik: Bahasa Indonesia.
 | Minggu | 1 Reels |
 
 ## Antrean (cek ini dulu)
-- `creative/_system/queue.md` berisi konten yang sudah dipilih, diolah, dan diberi caption oleh pemilik/Claude. Kalau ada entri untuk hari ini, terbitkan persis sesuai antrean, tanpa memilih ulang.
+- **Konten baru dari Drive lebih diutamakan daripada antrean upacara.** Setiap run, cek dulu folder Portfolio (Feed/Reels/Story) dan Portfolio/toetsvisual (feed/reels/story). Begitu ada satu saja file baru yang belum tercatat di content-log, **hapus seluruh sisa antrean** di `queue.md`: ganti isinya dengan catatan "Antrean upacara dibatalkan <tanggal> karena konten baru tersedia di Drive", lalu commit. Sejak saat itu, pilih media dari folder Drive tersebut. Sebutkan pembatalan ini di notifikasi hari itu.
+- `creative/_system/queue.md` hanya dipakai selama folder Drive di atas belum berisi konten baru. Kalau ada entri untuk hari ini, terbitkan persis sesuai antrean, tanpa memilih ulang.
 - Kalau antrean hari ini kosong, pilih media dari folder Portfolio (lihat di bawah). Kalau Portfolio kosong, boleh memilih dari folder Drive induk `115vRK4ixb0Dbp6TrY_6fVX_v4KNtqPOC` (sesi "Ngplugin 17 nov 2026") asalkan belum tercatat di content-log.
 - Kalau sisa antrean dan stok media cukup untuk kurang dari 5 hari, kirim pengingat ke pemilik.
 
