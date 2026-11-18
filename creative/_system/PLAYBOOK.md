@@ -21,6 +21,11 @@ Bahasa caption: **English**. Komunikasi ke pemilik: Bahasa Indonesia.
 | Senin, Rabu, Jumat | 1 Post feed (foto tunggal atau carousel 2–5 foto dari satu sesi) |
 | Minggu | 1 Reels |
 
+## Antrean (cek ini dulu)
+- `creative/_system/queue.md` berisi konten yang sudah dipilih, diolah, dan diberi caption oleh pemilik/Claude. Kalau ada entri untuk hari ini, terbitkan persis sesuai antrean, tanpa memilih ulang.
+- Kalau antrean hari ini kosong, pilih media dari folder Portfolio (lihat di bawah). Kalau Portfolio kosong, boleh memilih dari folder Drive induk `115vRK4ixb0Dbp6TrY_6fVX_v4KNtqPOC` (sesi "Ngplugin 17 nov 2026") asalkan belum tercatat di content-log.
+- Kalau sisa antrean dan stok media cukup untuk kurang dari 5 hari, kirim pengingat ke pemilik.
+
 ## Memilih media
 - Jangan pernah memakai file Drive yang sudah tercatat di `content-log.md` untuk jenis yang sama.
 - Lihat fotonya dulu (unduh, lalu periksa secara visual) sebelum memilih: tajam, eksposur bagus, tidak ada mata tertutup, komposisi kuat.
