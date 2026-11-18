@@ -48,7 +48,7 @@ Bahasa caption: **English**. Komunikasi ke pemilik: Bahasa Indonesia.
 
 ## Teknis posting via Zapier
 - Feed: `execute_zapier_write_action` app `InstagramBusinessCLIAPI`, action `publish_media_v2`, params `instagramPageId: "17841429505176497"`, `media: [url…]`, `caption`.
-- Reels: action `publish_video`, params `instagramPageId`, `video: url`, `caption`.
+- Reels: action `publish_video`, params `instagramPageId`, `video: url`, `caption`. Kalau gagal, pakai cadangan `_zap_raw_request`: POST `/media` dengan `media_type=REELS`, `video_url`, `caption`. Tunggu `status_code` FINISHED (sudah diuji 18 Nov: ±4 menit untuk video 30 MB dari raw GitHub), lalu POST `/media_publish`.
 - Story: action `_zap_raw_request` (write, POST):
   1. `POST https://graph.facebook.com/v21.0/17841429505176497/media` dengan querystring `image_url=<url>` (atau `video_url=<url>`) dan `media_type=STORIES`, lalu ambil `id`.
   2. Untuk video, tunggu sampai `GET /{id}?fields=status_code` bernilai `FINISHED`. Gunakan `execute_zapier_read_action` `_zap_raw_request` untuk GET.
