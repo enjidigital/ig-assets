@@ -14,6 +14,22 @@ Bahasa caption: **English**. Komunikasi ke pemilik: Bahasa Indonesia.
 - Media yang sudah diolah disimpan di repo ini: `creative/YYYY-MM/<tanggal>-<jenis>-<slug>.jpg|mp4`, lalu dipakai lewat
   `https://raw.githubusercontent.com/enjidigital/ig-assets/main/creative/YYYY-MM/<nama>`.
 
+## Kolaborasi @toetsvisual (WAJIB)
+- Folder Drive `Portfolio/toetsvisual` `1rv56ehg1F83UrR7iGQ5nSobuBrcdnFM3`:
+  - `feed toetsvisual` `1rCz4lpgvlupiIoNXRBlRoTX2Ty19o0dM`
+  - `reels toetsvisual` `1QKB_9ykga-WaTl-jy9ihUX_1XInbvVJB`
+  - `story toets visual` `1BRxivbdq58hB6XKM6uWQiDgsJrYqRSVl`
+- Folder ini ikut dihitung sebagai sumber konten (feed/reels/story) bersama folder Feed/Reels/Story biasa. Gilir secara adil dengan konten Enji sendiri, kecuali pemilik meminta lain.
+- **Setiap media yang diambil dari folder toetsvisual (Feed atau Reels) WAJIB diterbitkan sebagai Collab post** dengan `collaborators=["toetsvisual"]`. Zapier `publish_media_v2`/`publish_video` tidak punya kolom collaborators, jadi gunakan `_zap_raw_request`:
+  - Foto tunggal: POST `/17841429505176497/media` dengan `image_url`, `caption`, `collaborators=["toetsvisual"]`, lalu POST `/media_publish` dengan `creation_id`.
+  - Carousel: buat tiap item dengan `image_url` + `is_carousel_item=true`, lalu container induk dengan `media_type=CAROUSEL`, `children=<id1,id2,…>`, `caption`, `collaborators=["toetsvisual"]`, lalu `/media_publish`.
+  - Reels: `media_type=REELS`, `video_url`, `caption`, `collaborators=["toetsvisual"]`, tunggu `status_code` FINISHED, lalu `/media_publish`.
+  - (Sudah diuji 18 Nov 2026: container dengan collaborators=["toetsvisual"] diterima API.)
+- Caption collab diawali atau ditutup dengan kredit: "In collaboration with @toetsvisual". Tetap bahasa Inggris dan tetap memakai CTA serta hashtag Enji. Tambahkan juga #toetsvisual.
+- Story dari folder `story toets visual`: API Instagram tidak mendukung Collab atau mention di story. Terbitkan story seperti biasa, lalu catat di log "collab story, mention manual". Di notifikasi, ingatkan pemilik bahwa ia bisa menambahkan stiker mention @toetsvisual secara manual kalau mau.
+- @toetsvisual harus menerima undangan collab di aplikasi Instagram mereka supaya postingan juga muncul di profil mereka. Sebutkan ini di notifikasi setiap kali ada collab post.
+- Di content-log, tulis jenisnya sebagai "Post (collab toetsvisual)", "Reels (collab toetsvisual)", dan seterusnya.
+
 ## Jadwal (WITA)
 | Hari | Konten |
 |---|---|
