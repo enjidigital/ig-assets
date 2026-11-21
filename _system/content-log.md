@@ -22,3 +22,7 @@
 | 2026-11-18 10.00 | Layanan | Website & SEO — bisnis belum muncul di Google? | 2026-11/2026-11-18-website-seo.png |
 | 2026-11-19 18.00 | Edukasi | 4 tips balas chat pelanggan lebih cepat (WhatsApp Business) | 2026-11/2026-11-19-tips-balas-chat.png |
 | 2026-11-20 10.00 | Brand | Mitos vs fakta sistem digital untuk usaha | 2026-11/2026-11-20-mitos-vs-fakta.png |
+| 2026-11-23 10.00 | Produk | Sistem booking spa — jadwal spa masih sering bentrok? | 2026-11/2026-11-23-booking-spa.png |
+| 2026-11-25 10.00 | Layanan | Desain, foto & video — promosi usaha kurang menarik? | 2026-11/2026-11-25-desain-foto-video.png |
+| 2026-11-26 18.00 | Edukasi | 4 hal dicek sebelum pilih aplikasi kasir | 2026-11/2026-11-26-tips-pilih-kasir.png |
+| 2026-11-27 10.00 | Brand | Checklist: sudah sedigital apa usaha Anda? | 2026-11/2026-11-27-cek-digital-usaha.png |
