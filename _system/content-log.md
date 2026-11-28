@@ -26,3 +26,7 @@
 | 2026-11-25 10.00 | Layanan | Desain, foto & video — promosi usaha kurang menarik? | 2026-11/2026-11-25-desain-foto-video.png |
 | 2026-11-26 18.00 | Edukasi | 4 hal dicek sebelum pilih aplikasi kasir | 2026-11/2026-11-26-tips-pilih-kasir.png |
 | 2026-11-27 10.00 | Brand | Checklist: sudah sedigital apa usaha Anda? | 2026-11/2026-11-27-cek-digital-usaha.png |
+| 2026-11-30 10.00 | Produk | PMS Hotel + Booking Engine — booking villa masih di spreadsheet? | 2026-11/2026-11-30-pms-hotel-villa.png |
+| 2026-12-02 10.00 | Layanan | Domain & Hosting — website butuh rumah & alamat | 2026-12/2026-12-02-domain-hosting.png |
+| 2026-12-03 18.00 | Edukasi | 4 hal dicek sebelum musim liburan akhir tahun | 2026-12/2026-12-03-tips-high-season.png |
+| 2026-12-04 10.00 | Brand | Usaha Anda yang mana? (jenis usaha → solusi) | 2026-12/2026-12-04-usaha-anda-yang-mana.png |
